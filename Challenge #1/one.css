@@ -1,0 +1,39 @@
+
+h1 {
+    color: lightgreen;
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+.wrapper{
+    border: solid 5px black;
+    border-radius: 25px;
+    background-color: gray;
+    text-align: center;
+}
+main {
+    display: flex;  
+}
+#one {
+    border: solid 1px black;
+    border-radius: 25px;
+    background-color: lightgray;
+}
+#two {
+    border: solid 1px black;
+    border-radius: 25px;
+    background-color: lightgray;
+}
+#three {
+    border: solid 1px black;
+    border-radius: 25px;
+    background-color: lightgray;
+}
+

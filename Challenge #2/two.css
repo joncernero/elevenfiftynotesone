@@ -1,0 +1,57 @@
+.gradient {
+    background-image: linear-gradient(rgb(55, 52, 74) , rgb(96, 63, 85));
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 5;
+   
+  }
+
+.order {
+    display: inline;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+    
+    
+}
+
+nav{
+    background: rgba(255, 255, 255, 0.25);
+    filter: aplha(opacity=50);
+    overflow: hidden;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin: 225px 0 0 0;
+    font-size: 3em3;
+}
+
+#user {
+    background-color: white;
+    overflow: hidden;
+    height: 200px;
+    width: 400px;
+    text-align: center;
+    margin: 75px 25px 513px 513px;
+
+}
+
+button{
+    color:white;    
+    background-color:red;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 50px 5px 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+
+}
