@@ -47,16 +47,27 @@
 // if (n > p){
 //     console.log('My name is longer!');
 
-let object = { 
-Name: `jonathan`,
-Age: 41,
-married: true,
-Features: {}
-}
-console.log(typeof object.Name);
+// let object = { 
+// Name: `jonathan`,
+// Age: 41,
+// married: true,
+// Features: {}
+// }
+// console.log(typeof object.Name);
 
 // if (typeof myName == Boolean || String || Number){
 //     console.log('true');
 // } else { 
 //     console.log ('what are you?')
 // }
+
+// If Thanos gets all six infinity stones SNAP!
+
+// let madTitan = "Thanos";
+// console.log(madTitan);
+
+// let infinityStones = ["power", "soul", "time", "mind", "space"];
+// console.log (infinityStones.length);
+
+// if (infinityStones.length == 6){
+//     console.log("SNAP!");}
