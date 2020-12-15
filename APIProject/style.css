@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-size: cover;
+  background-position: 25% 75%;
+  background-repeat: no-repeat;
+}
+
+#spaceXlogo {
+  padding-top: 10vh;
+  min-width: 50vw;
+  max-width: 80vw;
+}
+
+.spaceX {
+  color: white;
+  font-size: 20px;
+  text-shadow: 1px 1px 2px black;
+  padding: 5vh;
+}
+
+.launchDate {
+  color: white;
+  font-size: 15px;
+  text-shadow: 1px 1px 2px black;
+  padding-top: 3vh;
+}
+
+.aboutSpaceX {
+  background-color: black;
+  height: 50vh;
+  margin-bottom: 10%;
+}
